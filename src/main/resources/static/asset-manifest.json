@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6900a498.css",
+    "main.js": "/static/js/main.7a5cee31.js",
+    "static/media/restaurant.jpg": "/static/media/restaurant.ae2d3cab2227c903f22c.jpg",
+    "static/media/dish.jpg": "/static/media/dish.811d18ae288f136f1b83.jpg",
+    "index.html": "/index.html",
+    "static/media/svg-blob.svg": "/static/media/svg-blob.9324915942bd8e5a09f879aafff58461.svg",
+    "static/media/twitter-icon.svg": "/static/media/twitter-icon.82807cb8b91086f2ad77332f06cf0501.svg",
+    "static/media/svg-decorator-blob-5.svg": "/static/media/svg-decorator-blob-5.cce5050c12fc27d5100c7e339ee91197.svg",
+    "static/media/svg-decorator-blob-7.svg": "/static/media/svg-decorator-blob-7.a72c1f4f12805814a51af1da93d42700.svg",
+    "static/media/youtube-icon.svg": "/static/media/youtube-icon.432d964994135c61441ba21c9f9b95e1.svg",
+    "static/media/star.svg": "/static/media/star.8070f2335a60a0172b4cde8fddb5b020.svg",
+    "static/media/map-pin.svg": "/static/media/map-pin.8c41fcd32a64210260619a622335959e.svg",
+    "static/media/chevron-left.svg": "/static/media/chevron-left.982a40d4f9e3cf9fdaeaf4af9da46c14.svg",
+    "static/media/chevron-right.svg": "/static/media/chevron-right.d45fd2f46e93f5c3aa0a7d0617d9fecf.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.cc908d417a340b8c3cf0a564cab79da0.svg",
+    "main.6900a498.css.map": "/static/css/main.6900a498.css.map",
+    "main.7a5cee31.js.map": "/static/js/main.7a5cee31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6900a498.css",
+    "static/js/main.7a5cee31.js"
+  ]
+}
